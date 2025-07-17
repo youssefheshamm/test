@@ -2,7 +2,9 @@ from fastapi import FastAPI
 
 app = FastAPI()
 
-#di comment ba2a 3aizeen n3mlha pull
+# di comment ba2a 3aizeen n3mlha pull
+# nice works
+
 
 @app.get("/")
 def root():
